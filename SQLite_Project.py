@@ -12,5 +12,6 @@ if __name__ == '__main__':
     data.combine_data()
     data.sum_table()
     data.to_excel()
+    data.to_csv()
 
 
